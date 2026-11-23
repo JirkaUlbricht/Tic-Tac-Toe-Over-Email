@@ -1,0 +1,3 @@
+<FilesMatch "^(\.env|games\.json)$">
+    Require all denied
+</FilesMatch>
